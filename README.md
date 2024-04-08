@@ -15,7 +15,7 @@ Once the form ahs been completed and submitted, a "card" will be displayed with 
 * "dev": Fire up the dev server
 * "test": Run the unit tests (build with Vitest, very similar to Jest, but faster!)
 * "build": Create a production application ready for deployment
-* "lint": Statically analyse the code base with ESLink
+* "lint": Statically analyse the code base with ESLint
 * "preview": Locally preview the production build
 
 ## Questions and queries
