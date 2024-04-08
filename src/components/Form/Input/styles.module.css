@@ -1,0 +1,28 @@
+.inputHolder {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: var(--darkGrey);
+    font-weight: 600;
+}
+
+.inputHolder input {
+    padding: 0.4rem 0.7rem;
+    border: 2px solid var(--primary);
+    border-radius: 0.4rem;
+    color: var(--primary);
+}
+
+.inputHolder span {
+    display: flex;
+}
+
+.error {
+    background-color: var(--primary);
+    color: var(--white);
+    padding: 0.4rem 0.7rem;
+}
+
+.required {
+    padding-left: 0.5rem;
+}
